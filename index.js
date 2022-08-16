@@ -1,10 +1,16 @@
-function isPalindrome(word) {
-  // Write your algorithm here
+function isPalindrome(str) {
+  return true;
 }
+isPalindrome("race car");
+
+function isPalindrome(str) {
+  return false;
+}
+isPalindrome("robot");
 
 /* 
   Add your pseudocode here
-*/
+*/ //create a function for isPalindrome
 
 /*
   Add written explanation of your solution here
